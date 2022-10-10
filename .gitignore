@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+fmt/format.h
+fmt/core.h
+fmt/format-inl.h
+fmt/format.cc
+run/runnable
